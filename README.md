@@ -1,6 +1,6 @@
 - I’m @valpamp, PhD candidate in Energy and Environment at la Sapienza University
-- I'm a Space Engineer and most of my work revolves aroud satellite image analysis
-- My main research fields are wildfire management, vegetation monitoring, on-orbit image sharpness assessment and shoreline mapping :satellite:
+- I'm a Space Engineer and most of my work revolves aroud satellite image analysis 🛰️
+- My main research fields are wildfire management :fire:, vegetation monitoring 🌳, on-orbit image sharpness assessment 🔍 and shoreline mapping 🏖️
 - As you can guess, my coding skills revolve mostly around data science and image analysis
 - I've got a lot of experience in Matlab and Python, but I've switched to the latter for most of my projects
 - I've studied a little C and C++ and would like to get to know them better
